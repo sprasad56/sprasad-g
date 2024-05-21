@@ -3,7 +3,7 @@ Hi there! 👋 I'm a freelance Trainer and Frontend Development enthusiast with 
 
 ## My Skills
 - *Technical Training*: Experienced in delivering engaging and informative technical training sessions on various topics, including frontend development and Azure AI.
-- *Frontend Development*: Proficient in HTML, CSS, JavaScript, and popular frontend frameworks such as React and Vue.js. I love creating beautiful and user-friendly web interfaces.
+- *Frontend Development*: Proficient in HTML, CSS, JavaScript, and popular frontend frameworks such as React . I love creating beautiful and user-friendly web interfaces.
 - *Azure AI*: Certified in Azure AI, with a solid understanding of machine learning, natural language processing, and computer vision technologies.
 - *Developer Advocacy*: Passionate about building and nurturing developer communities, advocating for best practices, and sharing knowledge through workshops, webinars, and blog posts.
 - *Communication*: Strong verbal and written communication skills, with the ability to explain complex technical concepts in a clear and accessible manner.
